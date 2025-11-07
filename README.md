@@ -11,26 +11,6 @@ This project demonstrates a complete image-processing workflow using Python and 
 
 Each module processes images from a dataset, performs a specific transformation/analysis, and saves results to an output folder.
 
-📁 Project Structure
-📦 Image-Processing-Project
-│
-├── cars_dataset/                 # Input images for tasks 1–4
-├── face_dataset/                 # Input images for face detection
-│
-├── global_threshold/             # Output of global thresholding
-├── labeled_dataset/              # Output of labeled images
-├── Hough_lines_dataset/          # Output of Hough line detection
-├── optical_flow_dataset/         # Output of optical flow
-├── face_detection_dataset/       # Output of face detection
-│
-├── GlobalThreshold.ipynb         # Notebook for global thresholding
-├── Labeling.ipynb                # Notebook for contour labeling
-├── HoughLines.ipynb              # Notebook for Hough transform
-├── OpticalFlow.ipynb             # Notebook for flow calculation
-├── FaceDetection.ipynb           # Notebook for Haar cascade detection
-│
-└── README.md                     # Project documentation
-
 🚀 Technologies Used
 
 Python 3
