@@ -49,5 +49,3 @@ The project uses two datasets:
 - Detects human faces using OpenCV’s pretrained Haar Cascade classifier.
 - Works best for frontal faces.
 - Uses `detectMultiScale()`.
-## 🗂️ Project Structure
-
